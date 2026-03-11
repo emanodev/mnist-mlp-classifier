@@ -39,6 +39,7 @@ Test accuracy: ~98%
 
 ```bash
 python mlp_mnist.py
+```
 
 ## Author
 
